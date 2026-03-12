@@ -1,3 +1,105 @@
+# 👋 Welcome to My GitHub Profile
+
+Hi! I'm **[Your Name]**, a passionate developer based in **[Your Location]**. I'm dedicated to building clean, efficient, and user-friendly solutions.
+
+## 🚀 About Me
+
+- 💻 **Full-Stack Developer** with expertise in modern web technologies
+- 🎓 Continuous learner exploring emerging technologies and best practices
+- 🤝 Open to collaboration and contributing to open-source projects
+- 📚 Believer in clean code, documentation, and knowledge sharing
+
+## 🛠️ Tech Stack
+
+### Languages
+- JavaScript/TypeScript
+- Python
+- Java
+- SQL
+
+### Frontend
+- React / Vue.js
+- HTML5 & CSS3
+- Tailwind CSS
+
+### Backend
+- Node.js / Express
+- Django / FastAPI
+- PostgreSQL / MongoDB
+
+### Tools & Platforms
+- Git & GitHub
+- Docker & Kubernetes
+- AWS / Google Cloud
+- CI/CD (GitHub Actions, Jenkins)
+
+## 📌 Featured Projects
+
+### [Project Name 1](#)
+Brief description of what this project does and the technologies used.
+- **Tech Stack:** React, Node.js, MongoDB
+- **Highlights:** Feature highlights and achievements
+
+### [Project Name 2](#)
+Brief description of what this project does and the technologies used.
+- **Tech Stack:** Python, Django, PostgreSQL
+- **Highlights:** Feature highlights and achievements
+
+### [Project Name 3](#)
+Brief description of what this project does and the technologies used.
+- **Tech Stack:** TypeScript, Vue.js, Firebase
+- **Highlights:** Feature highlights and achievements
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=geet-code&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geet-code&layout=compact&theme=radical)
+
+## 🌱 Currently Learning
+
+- Advanced system design patterns
+- Microservices architecture
+- Machine learning fundamentals
+
+## 💼 Professional Experience
+
+**[Job Title]** @ [Company Name] | [Duration]
+- Achievement or responsibility
+- Achievement or responsibility
+
+**[Job Title]** @ [Company Name] | [Duration]
+- Achievement or responsibility
+- Achievement or responsibility
+
+## 🎯 Goals & Interests
+
+- Building scalable, high-performance applications
+- Contributing to impactful open-source projects
+- Mentoring junior developers
+- Exploring AI and machine learning applications
+
+## 📫 Let's Connect
+
+- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
+- 🌐 Portfolio: [Your Website](https://yourwebsite.com)
+
+## 📈 Fun Facts
+
+- 🎮 When I'm not coding, I enjoy [hobby]
+- ☕ I run on coffee and curiosity
+- 🎵 Music taste: [Your music preference]
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile! Feel free to reach out or explore my repositories. ✨
+
+</div>
+
 # 👋 Hi, I'm geet-code
 
 Welcome to my GitHub profile! I'm a passionate developer dedicated to building meaningful software solutions and contributing to the open-source community.
